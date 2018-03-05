@@ -1,0 +1,25 @@
+/* Right answers */
+.correct {
+	color:green;
+
+}
+
+/* wrong answer */
+.incorrect{
+  color: red;
+}
+
+
+.container{
+	border:10px solid red;
+	border-radius: 30px 0px 30px 0px;
+}
+
+.center {
+	text-align: center;
+}
+
+.center1 {
+	text-align: center;
+	color:red;
+}
